@@ -27,9 +27,6 @@
 
   .pokemon:hover .detail img {
     transition: 500ms;
-    position: relative;
-    top: calc(50% -70px);
-    height: 80px;
     filter: none;
   }
  
